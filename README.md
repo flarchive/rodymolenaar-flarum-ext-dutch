@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of rodymolenaar/flarum-ext-dutch.** Not for installation: use [Packagist](https://packagist.org/packages/rodymolenaar/flarum-ext-dutch) or the [upstream repository](https://github.com/rodymolenaar/flarum-ext-dutch).
 
-**0** versions archived · Latest: [`v1.1.1`](https://github.com/flarchive/rodymolenaar-flarum-ext-dutch/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**3** versions archived · Latest: [`v1.1.1`](https://github.com/flarchive/rodymolenaar-flarum-ext-dutch/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2015-11-05 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/rodymolenaar-flarum-ext-dutch/tree/archive/v1.0.0) |
+| `v1.1.0` | 2017-09-28 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/rodymolenaar-flarum-ext-dutch/tree/archive/v1.1.0) |
+| `v1.1.1` | 2017-09-28 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/rodymolenaar-flarum-ext-dutch/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/rodymolenaar-flarum-ext-dutch.json](https://github.com/flarchive/archive-index/blob/main/packages/rodymolenaar-flarum-ext-dutch.json)
 
